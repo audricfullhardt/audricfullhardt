@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on personal projects to include in my portfolio<br>I'm currently learning Vue.js , React.js and Three.js
+I'm currently working on personal projects to include in my portfolio<br>I'm currently learning Vue.js , React.js, React Native and Three.js
 
 
 ## 🌐 Socials:
